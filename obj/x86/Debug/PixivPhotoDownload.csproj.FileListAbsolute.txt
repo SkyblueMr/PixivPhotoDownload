@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\bin\Debug\PixivPhotoDownload.exe.config
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\exe\PixivPhotoDownload.exe.config
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\exe\PixivPhotoDownload.exe
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\exe\PixivPhotoDownload.pdb
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.exe
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.pdb
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.LinkSave.resources
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.AboutForm.resources
+C:\Documents and Settings\Administrator\桌面\PixivPhotoDownload\PixivPhotoDownload\obj\x86\Debug\PixivPhotoDownload.HelpForm.resources
